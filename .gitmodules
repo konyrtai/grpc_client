@@ -1,0 +1,3 @@
+[submodule "protobuf_contracts"]
+	path = protobuf_contracts
+	url = https://github.com/kssnv/protobuf_contracts
